@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import opencv
 from PIL import Image
 import tempfile
 import os
