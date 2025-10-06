@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+import opencv
 import opencv-python-headless
 from PIL import Image
 import tempfile
